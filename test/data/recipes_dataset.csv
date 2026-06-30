@@ -1,0 +1,16 @@
+recipe_id,name,cuisine_type,difficulty,prep_time_minutes,servings
+0,Fried Rice,CHINESE,EASY,57,2
+1,Beef Noodle,WESTERN,MEDIUM,61,5
+2,Tomato Egg Soup,THAI,EASY,81,7
+3,Braised Pork,THAI,EASY,85,2
+4,Coconut Curry,WESTERN,MEDIUM,73,8
+5,Grilled Steak,WESTERN,MEDIUM,47,2
+6,Sushi Roll,THAI,EASY,57,4
+7,Mapo Tofu,THAI,MEDIUM,90,4
+8,Cream Pasta,CHINESE,EASY,65,6
+9,Shrimp Dumpling,WESTERN,EASY,15,7
+10,Carrot Salad,WESTERN,EASY,64,4
+11,Garlic Bread,CHINESE,MEDIUM,12,4
+12,Milk Porridge,THAI,EASY,51,7
+13,Pepper Chicken,THAI,EASY,55,5
+14,Cheese Omelette,WESTERN,EASY,88,6
