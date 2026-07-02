@@ -1,7 +1,0 @@
-supplier_id,name,location,reliability_score
-0,Supplier_0,Beijing,0.58
-1,Supplier_1,Shanghai,0.99
-2,Supplier_2,Guangzhou,0.66
-3,Supplier_3,Shenzhen,0.85
-4,Supplier_4,Chengdu,0.75
-5,Supplier_5,Hangzhou,0.75
