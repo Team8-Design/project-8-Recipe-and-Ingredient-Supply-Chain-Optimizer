@@ -249,5 +249,3 @@ This system leverages four fundamental data structures to solve distinct caterin
 - **Linked Lists** manage recipe ingredients (管理食谱食材)
 - **Graphs** model supplier networks (建模供应商网络)
 - **Heaps** prioritize procurement (优先采购)
-
-The solution includes comprehensive dataset generation, loading, validation with unit tests, and advanced algorithms for substitution optimization and crisis recovery.
